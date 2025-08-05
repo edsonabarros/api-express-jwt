@@ -1,12 +1,12 @@
 import express from "express";
-import helloRoutes from "./routes/hello";
+import { userRoutes } from "./routes/userRoutes";
 
 const app = express();
 const PORT = 3000;
 
 app.use(express.json());
 
-app.use("/hello", helloRoutes);
+app.use("/user", userRoutes);
 
 app.listen(PORT, () => {
   console.log(`🚀 Servidor rodando na porta ${PORT}`);

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "João Silva",
+    "username": "joaosilva",
+    "password": "senha123",
+    "checkPassword": "senha123"
+  },
+  {
+    "name": "Maria Oliveira",
+    "username": "maria_oli",
+    "password": "minhaSenha@2024",
+    "checkPassword": "minhaSenha@2024"
+  },
+  {
+    "name": "Carlos Santos",
+    "username": "carloss",
+    "password": "abcDEF!456",
+    "checkPassword": "abcDEF!456"
+  },
+  {
+    "name": "Ana Pereira",
+    "username": "anap",
+    "password": "12345ana",
+    "checkPassword": "12345ana"
+  },
+  {
+    "name": "Pedro Lima",
+    "username": "pedrol",
+    "password": "p@ssPedro",
+    "checkPassword": "p@ssPedro"
+  }
+]
